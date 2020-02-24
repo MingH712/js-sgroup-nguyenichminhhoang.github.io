@@ -1,0 +1,11 @@
+**{box-sizing: border-box;}
+*{margin-top: 0px;}
+*{font-family: 'Raleway', sans-serif;}
+*{font-size: 19px;}
+.odd {
+    background: rgb(23, 240, 255);
+}
+.even {
+    background: rgb(218, 253, 17);
+}
+*button {margin-bottom: 0px;}
